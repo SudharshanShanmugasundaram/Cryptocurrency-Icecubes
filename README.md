@@ -1,5 +1,5 @@
 # Cryptocurrency-Icecubes
-Implementation of my very own cryptocurrency Icecubes by harnessing the power of Blockchain technology of Decentralization.
+Implementation of my very own cryptocurrency Icecubes by harnessing the power of Blockchain technology of [Decentralization](https://en.wikipedia.org/wiki/Decentralization).
 
 # Blockchain
 
